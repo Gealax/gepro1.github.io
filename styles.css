@@ -75,7 +75,7 @@ body {
 
 .card button:hover {
    
-    color:black;
+    color:rgb(60, 209, 247);
     border:2px solid black;
     transition:0.2s;
 }
